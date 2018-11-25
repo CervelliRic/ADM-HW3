@@ -13,6 +13,6 @@ You can download the data here!
 - HW_3.ipynb 
 Our markdown written with all our considerations, we are not professionals, and with the tools we have created a search engine  of our own.
 
-- Mappa.png
-The map is not visible from our markdown, so we decided to upload it separately, and you can view the html page of the map, by going to this url https://naghamalmag.github.io/ , where you can see the map and when you press on each house's location you will see the price, or yo can see its image "Mappa.png".
+- Mappa.png or https://naghamalmag.github.io/
+The map is not visible from our markdown, so we decided to upload it separately, so you can view the html page of our map, by going to this url https://naghamalmag.github.io/ , where you can see the map and when you press on each house's location you will see the price, or you can view its image "Mappa.png".
 
