@@ -13,6 +13,6 @@ You can download the data here!
 - HW_3.ipynb 
 Our markdown written with all our considerations, we are not professionals, and with the tools we have created a search engine  of our own.
 
-- Houses.html
+- Mappa.png
 The map is not visible from our markdown, so we decided to upload it separately
 
